@@ -2,3 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+:root{
+    --DarkPurple : #2a1454;
+    --LightPurple : #8750f7;
+}
